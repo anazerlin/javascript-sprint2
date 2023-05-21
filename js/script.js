@@ -34,6 +34,8 @@ function processForm(event) {
   // Exemplo de saída dos valores dos inputs
   console.log('Nome:', nameInput);
   console.log('Email:', emailInput);
+  console.log('Telefone:', telefoneInput);
+  
 
   // Limpar os campos do formulário
   document.getElementById('sustainabilityForm').reset();
